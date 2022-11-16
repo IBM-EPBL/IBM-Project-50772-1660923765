@@ -1,0 +1,6 @@
+# IBM-Project-50772-1660923765
+Real-Time Communication System Powered by AI for Specially Abled
+TEAM LEADER -KAVIYA.T
+TEAM MEMBER 1-PREMI.R
+TEAM MEMBER 2-HAGEERA.A
+TEAM MEMBER 3-VINITHA.M
